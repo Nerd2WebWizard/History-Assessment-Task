@@ -1,0 +1,33 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+h2{
+    font-size: 43px;
+    text-align: left;
+    font-family: cursive;
+}
+.Intro{
+    text-align: left;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.P1{
+    text-align: left;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.P2{
+    text-align: left;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Con{
+    text-align: left;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
