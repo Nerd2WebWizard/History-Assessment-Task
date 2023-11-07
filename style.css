@@ -31,3 +31,7 @@ h2{
     font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+h3{
+    text-align:right;
+    float:right
+}
